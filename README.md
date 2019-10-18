@@ -5,3 +5,4 @@
 *Have FUN!*
 
 `[Kamal Iqlaas]`[github](https://github.com/Iqlaas)
+`[Syamsi Taufik]`[github](https://github.com/syamsitaufik)
