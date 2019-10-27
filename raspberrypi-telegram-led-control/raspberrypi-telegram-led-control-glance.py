@@ -1,4 +1,4 @@
-#code:{syamsi}
+#code:{syamsitaufik}
 
 import sys
 from time import sleep
